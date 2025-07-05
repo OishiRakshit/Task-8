@@ -6,13 +6,7 @@ To understand how Virtual Private Networks (VPNs) function, their role in protec
 
 ## 🛠️ Tools Used
 - **VPN Client**: ExpressVPN (Free Tier)
-- **Web Tools**:
-  - [WhatIsMyIPAddress](https://www.whatismyipaddress.com) (to check IP address)
-
-
-## 🖼️ Screenshot
-> ![VPN Connection Screenshot](vpn_connection_screenshot.png)  
-*Connected to ExpressVPN — United Kingdom Server*
+- **Web Tools**: [WhatIsMyIPAddress](https://www.whatismyipaddress.com) (to check IP address)
 
 
 ## ⚠️ Limitations:
